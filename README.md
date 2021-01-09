@@ -11,3 +11,6 @@ This repository will collect everything related to `Progressive Web Apps - PWA` 
 ## Talks
 - [Are PWAs ready to take over the world?](https://www.youtube.com/watch?v=G22MTB5FISc) - FOSDEM 2020
 ## Articles
+- [Add a web app manifest](https://web.dev/add-manifest/) - web.dev
+
+  > The web app manifest is a JSON file that tells the browser about your Progressive Web App and how it should behave when installed on the user's desktop or mobile device.
